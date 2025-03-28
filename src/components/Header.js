@@ -7,6 +7,7 @@ const Header = ({ score }) => {
         <span>Rock</span>
         <span>Paper</span>
         <span>Scissors</span>
+        <span>Game</span>
       </div>
       <div className="score-box">
         <span>Score</span>
