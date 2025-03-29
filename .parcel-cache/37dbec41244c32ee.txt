@@ -10,7 +10,7 @@
 119C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\caniuse-lite\data\features\justify-content-space-evenly.js133876301482738330 0
 93C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\call-bind-apply-helpers\index.js133876391420836479 0
 86C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\prettier\parser-espree.js133876301535874512 0
-78C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\@msgpackr-extract133876392800972503 1
+78C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\@msgpackr-extract133876392804120410 1
 98C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133876301401518291 0
 94C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\entities\lib\encode-trie.d.ts.map133876301444410071 0
 101C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\caniuse-lite\data\features\ogg-vorbis.js133876301492208581 0
@@ -41,7 +41,7 @@
 85C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\abortcontroller-polyfill133876301453214397 1
 118C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file133876301626164734 1
 83C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\@parcel\optimizer-svgo133876301543378098 1
-52C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\dist133876394737999106 1
+52C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\dist133877173954842781 1
 81C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\base64-js\index.d.ts133876392803087989 0
 98C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\.bin\node-gyp-build-optional-packages133876302770938100 0
 111C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\@babel\plugin-proposal-dynamic-import\lib\index.js133876301675725527 0
@@ -86,7 +86,7 @@
 113C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\@parcel\transformer-js\parcel-swc.linux-x64-gnu.node133876302554170138 0
 70C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\lmdb\util133876301513869125 1
 82C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\yaml\browser\types.js133876301400854150 0
-67C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\src\scss\_play.scss133876299579878817 0
+67C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\src\scss\_play.scss133877171138475126 0
 114C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\core-js-compat\get-modules-list-for-target-version.js133876301435428824 0
 84C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\.bin\node-gyp-build.cmd133876302770938100 0
 92C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\@parcel\reporter-dev-server\lib133876301555081139 1
@@ -153,7 +153,7 @@
 90C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\mdn-data\css\definitions.json133876301398992046 0
 77C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\srcset\readme.md133876301398852048 0
 117C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag133876301422312369 0
-67C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\src\scss\_game.scss133876299579858837 0
+67C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\src\scss\_game.scss133877171903250459 0
 105C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\parcel\node_modules\ansi-styles\package.json133876301397177480 0
 90C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\babel-plugin-polyfill-corejs2133876301453103497 1
 102C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\caniuse-lite\data\features\input-color.js133876301480175016 0
@@ -175,7 +175,7 @@
 76C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\.bin\parcel.cmd133876302770948207 0
 135C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133876301717672913 0
 91C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\detect-libc\bin\detect-libc.js133876301435252279 0
-69C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\src\scss\_header.scss133876299579868836 0
+69C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\src\scss\_header.scss133877173953223511 0
 73C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\src\images\icon-close.svg133876299579799037 0
 88C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\react-error-overlay\LICENSE133876301403935452 0
 72C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\chalk\types133876301398572037 1
@@ -193,7 +193,7 @@
 80C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\has-symbols\LICENSE133876391420472647 0
 87C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\tslib\modules\package.json133876301398962044 0
 109C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\@babel\types\lib\builders\generated\uppercase.js133876301649023166 0
-68C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\src\scss\_modal.scss133876299579878817 0
+68C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\src\scss\_modal.scss133877172455887091 0
 104C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\caniuse-lite\data\features\input-pattern.js133876301480328468 0
 69C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\asynckit133876391420915676 1
 106C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\caniuse-lite\data\features\async-clipboard.js133876301454735347 0
@@ -287,7 +287,7 @@
 106C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\resolve\test\resolver\without_basedir\main.js133876301401798286 0
 99C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\regenerate-unicode-properties\index.js133876301450475010 0
 91C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\css-what\lib\es\parse.d.ts.map133876301399222046 0
-75C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\dist\index.4a508c1d.css.map133876394615844319 0
+75C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\dist\index.4a508c1d.css.map133877173954818384 0
 92C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\@ampproject\remapping\README.md133876301714209547 0
 70C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\src\components\Game.js133876393159891096 0
 92C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\caniuse-lite\data\regions\NL.js133876301489213434 0
@@ -313,7 +313,7 @@
 92C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\caniuse-lite\data\regions\EC.js133876301470156512 0
 89C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\color-convert\conversions.js133876301397357469 0
 72C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\buffer-from133876301397467482 1
-66C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\@lmdb133876392800972503 1
+66C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\@lmdb133876392804120410 1
 105C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\supports-preserve-symlinks-flag\package.json133876301398542061 0
 106C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\@parcel\transformer-postcss\lib\loadConfig.js133876301492328706 0
 70C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\@mischnic133876301386749312 1
@@ -7819,5 +7819,5 @@
 76C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\node_modules\.bin\terser.cmd133876302770982850 0
 76C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\dist\icon-close.cac3d951.svg133876394615697556 0
 75C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\dist\icon-rock.c05d6dd6.svg133876394616268681 0
-71C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\dist\index.4a508c1d.css133876394615782479 0
+71C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\dist\index.4a508c1d.css133877173954771451 0
 63C:\Users\harsh\Desktop\Rock-Paper-Scissors\Game\dist\index.html133876394615737676 0
